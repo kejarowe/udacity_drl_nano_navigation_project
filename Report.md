@@ -9,3 +9,9 @@ was 0.99, and epsilon (probability of uniformly chosen action) started at 1.00 a
 
 ## Plot of Rewards during training and evaluation
 
+### Training of DQN-based agent, 577 episodes were need to learn acceptable level of performance
+![](train.png)
+
+### Evaluation of DQN-based agent, after training (scores of trained agent over 100 episodes)
+![](eval.png)
+
