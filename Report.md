@@ -15,3 +15,12 @@ was 0.99, and epsilon (probability of uniformly chosen action) started at 1.00 a
 ### Evaluation of DQN-based agent, after training (scores of trained agent over 100 episodes)
 ![](eval.png)
 
+## Further Improvement
+
+To further improve the performace of the network, a number of steps can be taken including:
+* Training longer
+* Increading the size of the fully connected layers
+* Adding more fully connected layers
+* Implementing Prioritized Experience Replay
+* Implementing Double DQN
+* Implementing Dueling Q-Network
